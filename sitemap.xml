@@ -30,5 +30,17 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
+      <url>
+      <loc>https://www.apple.com/</loc>
+      <lastmod>2023-09-19</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://www.apple.com/mac/</loc>
+      <lastmod>2023-09-19</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
    <!-- Add more URLs for each page on your site -->
 </urlset>
